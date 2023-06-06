@@ -1,0 +1,39 @@
+h2 {
+	color: white;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+h4 {
+	color: white;
+	margin-bottom: 25px;
+	margin-left: 20px;
+}
+
+body {
+	background-color: black;
+}
+
+button {
+	color: white;
+	background-color: black;
+}
+
+.card-group {
+	margin-bottom: 10px;
+}
+
+.card {
+	outline: 1px solid white;
+	padding-top: 15px;
+	background-color: black;
+  	word-break: break-all;
+}
+
+.dropdown-item {
+	margin-top: 5px;
+}
+
+.to_hide {
+	visibility: hidden;
+}
